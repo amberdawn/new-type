@@ -1,2 +1,0 @@
-# new-type
-Begin app
