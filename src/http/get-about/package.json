@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-about",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
