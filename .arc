@@ -1,13 +1,9 @@
-#
-# Warning! Do Not Edit
-# --------------------
-# This is a generated file and will be overwritten
-#
 @app
-begin-app
+flower-mpi
 
 @http
 get /
+get /about
 
 @tables
 data
